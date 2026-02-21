@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 This is a demo test file created in Eclipse.
 Pending task:
 1. reading api testing interview questions
+=======
+This is a demo test file created in Eclipse. 
+Pending task:
+1. creating word evidence
+2. update excel file with pass/fail result
+3. run tests from jenkins
+>>>>>>> branch 'main' of https://github.com/Subhratanu-Roy/SeleniumPracticeProject.git
