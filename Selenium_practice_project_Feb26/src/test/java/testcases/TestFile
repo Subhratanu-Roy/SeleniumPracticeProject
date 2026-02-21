@@ -1,1 +1,5 @@
-This is a demo test file created in Eclipse.
+This is a demo test file created in Eclipse. 
+Pending task:
+1. creating word evidence
+2. update excel file with pass/fail result
+3. run tests from jenkins
